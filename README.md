@@ -18,11 +18,41 @@ In chronological order, according to issue [#1](https://github.com/AOSC-Dev/aosc
 
 ### The First Day | 第一天
 
+#### Morning | 早晨
+
+#### Afternoon | 下午
+
+#### Evening | 晚上
+
+
+
 ### The Second Day | 第二天
+
+#### Morning | 早晨
+
+#### Afternoon | 下午
+
+#### Evening | 晚上
+
+
 
 ### The Third Day | 第三天
 
+#### Morning | 早晨
+
+#### Afternoon | 下午
+
+#### Evening | 晚上
+
+
+
 ### The Fourth Day | 第四天
+
+#### Morning | 早晨
+
+#### Afternoon | 下午
+
+#### Evening | 晚上
 
 
 ## Participation Method | 参与方式
