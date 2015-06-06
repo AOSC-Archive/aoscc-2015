@@ -1,0 +1,3 @@
+[submodule "aosc-logos"]
+	path = aosc-logos
+	url = git://github.com/AOSC-Dev/LOGO
