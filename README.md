@@ -12,8 +12,8 @@ Here are some stuffs about AOSCC, including sticker design, agenda, and so on.
 
 Including some information like time, location, participant.
 
-- [English version](summary-en.txt)
-- [中文版本](summary-cn.txt)
+- [English version](summary-en.md)
+- [中文版本](summary-cn.md)
 
 ## Agenda（议程安排）
 
@@ -21,8 +21,8 @@ Including some information like time, location, participant.
 
 Detailed activity scheduler. **Caution: For indication only.**
 
-- [English version](agenda-en.txt)
-- [中文版本](agenda-cn.txt)
+- [English version](agenda-en.md)
+- [中文版本](agenda-cn.md)
 
 ## Stuffs（干货）
 
@@ -35,5 +35,5 @@ We've designed some stickers that will be sent on AOSCC, and they're in [sticker
 ## Participation（参与方式）
 
 参见：
-- [English version](participate-en.txt)
-- [中文版本](participate-cn.txt)
+- [English version](participate-en.md)
+- [中文版本](participate-cn.md)
