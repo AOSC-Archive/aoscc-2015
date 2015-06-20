@@ -1,60 +1,39 @@
 # Anthon Open Source Community Conference (AOSCC) 2015
 
-安同开源社区讨论会 2015
+安同开源社区年会 2015
 
-## Time | 时间
+Here are some stuffs about AOSCC, including sticker design, agenda, and so on.
 
-- Not decided yet | 未定
-- Will last for 4 days | 将持续 4 天
+这里都是一些关于 AOSCC 的东西，包括贴纸设计、议程安排等。
 
-## Location | 地点
+## Summary（综述）
 
-- Shenzhen, Guangdong Province | 广东省深圳市
-- Specific location is not decided yet | 具体地点未定
+包括时间、地点、与会人等信息。
 
-## Agenda | 议程安排
+Including some information like time, location, participant.
 
-In chronological order, according to issue [#1](https://github.com/AOSC-Dev/aoscc-2015/issues/1) | 按时间顺序，根据 issue [#1](https://github.com/AOSC-Dev/aoscc-2015/issues/1)
+- [English version](summary-en.txt)
+- [中文版本](summary-cn.txt)
 
-### The First Day | 第一天
+## Agenda（议程安排）
 
-#### Morning | 早晨
+详细的活动流程计划表。**注意：仅供参考。**
 
-#### Afternoon | 下午
+Detailed activity scheduler. **Caution: For indication only.**
 
-#### Evening | 晚上
+- [English version](agenda-en.txt)
+- [中文版本](agenda-cn.txt)
 
+## Stuffs（干货）
 
+### Sickers（贴纸）：
 
-### The Second Day | 第二天
+We've designed some stickers that will be sent on AOSCC, and they're in [stickers](stickers).
 
-#### Morning | 早晨
+我们设计了一些在 AOSCC 上免费派送的贴纸，在 [stickers](stickers)目录。
 
-#### Afternoon | 下午
+## Participation（参与方式）
 
-#### Evening | 晚上
-
-
-
-### The Third Day | 第三天
-
-#### Morning | 早晨
-
-#### Afternoon | 下午
-
-#### Evening | 晚上
-
-
-
-### The Fourth Day | 第四天
-
-#### Morning | 早晨
-
-#### Afternoon | 下午
-
-#### Evening | 晚上
-
-
-## Participation Method | 参与方式
-
-
+参见：
+- [English version](participate-en.txt)
+- [中文版本](participate-cn.txt)
