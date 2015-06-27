@@ -2,15 +2,15 @@
 
 ## Time
 
-- Begin: July 13, 2015
-- End:   July 16,2015
-- Last:  for 4 days
+- Begin: July 11, 2015
+- End:   July 13,2015
+- Last:  for 3 days
 
 ## Location
 
-- Shenzhen, Guangdong Province
-- Specific location: See also [the agenda](agenda-en.md)
+- Maker Space, 2005, Changhong Technology Mansion,  Nanshan, Shenzhen, Guangdong Province
+    - See also: [Baidu Map](http://j.map.baidu.com/G3LHb)
 
-## Participant
+## Participation Method
 
-- Not decided yet
+- Visit ["Accuvally"](http://www.huodongxing.com/) to apply. (Auditing not finished)
