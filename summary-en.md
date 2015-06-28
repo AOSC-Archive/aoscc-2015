@@ -13,4 +13,4 @@
 
 ## Participation Method
 
-- Visit ["Accuvally"](http://www.huodongxing.com/) to apply. (Auditing not finished)
+- Visit ["Accuvally"](http://www.huodongxing.com/event/3288548635800) to attend.
