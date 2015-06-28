@@ -13,4 +13,4 @@
 
 ## 参与方式
 
-- 访问[“活动行”](http://www.huodongxing.com/)网站报名参加（审核暂未通过）
+- 访问[“活动行”](http://www.huodongxing.com/event/3288548635800)网站报名参加
