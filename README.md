@@ -2,7 +2,7 @@
 
 安同开源社区年会 2015
 
-Here are some stuff about AOSCC, including sticker design, agenda, and so on.
+Here are some stuff (much rather, descriptions and summary) about AOSCC, including sticker design, agenda, and so on.
 
 这里都是一些关于 AOSCC 的东西，包括贴纸设计、议程安排等。
 
@@ -10,7 +10,7 @@ Here are some stuff about AOSCC, including sticker design, agenda, and so on.
 
 包括时间、地点、参与方式等信息。
 
-Including some information like time, location, participation methods.
+Some information about time and location info for participation.
 
 - [English version](summary-en.md)
 - [中文版本](summary-cn.md)
@@ -19,12 +19,12 @@ Including some information like time, location, participation methods.
 
 详细的活动流程计划表。**注意：仅供参考。**
 
-Detailed activity scheduler. **Caution: conditions may change depending on the schedule.**
+A detailed agenda. **Caution: conditions may change depending on the schedule.**
 
 - [English version](agenda-en.md)
 - [中文版本](agenda-cn.md)
 
-## Stuffs（干货）
+## Stuff（干货）
 
 ### Sickers（贴纸）：
 
